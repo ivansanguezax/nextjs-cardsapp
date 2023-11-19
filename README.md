@@ -1,7 +1,6 @@
-# Cards Next.js App
+# 🃏 Cards Next.js App
 
 Welcome to the Cards Next.js App! This simple application showcases the usage of Next.js with a basic Navbar.
-
 
 ## 🛠️ Technologies Used
 
